@@ -1,6 +1,13 @@
 # Comparative Analysis of COVID-19 Vaccine Sentiment on Reddit
 
-This project utilizes a computational pipeline to analyze and compare COVID-19 vaccine sentiment between occupational groups on Reddit during 2021. By leveraging the Reddit API for data collection and Large Language Models (LLMs) for sentiment classification, this study quantifies the divergence in public discourse between "blue-collar" (e.g., r/Construction, r/Truckers) and "white-collar" (e.g., r/programming, r/marketing) communities.
+This project utilizes a computational pipeline to analyze and compare COVID-19 vaccine sentiment between
+## Project Poster
+
+![Project Poster](MARCOEM%20Poster%2025_005b.jpg)
+
+[Download Original Poster (PPTX)](MARCOEM%20Poster%2025_005b.pptx)
+
+## Key Findings the Reddit API for data collection and Large Language Models (LLMs) for sentiment classification, this study quantifies the divergence in public discourse between "blue-collar" (e.g., r/Construction, r/Truckers) and "white-collar" (e.g., r/programming, r/marketing) communities.
 
 ## Repository Structure
 
