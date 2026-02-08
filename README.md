@@ -28,6 +28,4 @@ This project utilizes a computational pipeline to analyze and compare COVID-19 v
     python 04_visualization.py
     ```
 
-## Key Findings
 
-The analysis reveals distinct sentiment patterns, with blue-collar communities exhibiting a higher prevalence of vaccine skepticism compared to their white-collar counterparts. Detailed statistical results and visualizations can be found in the `paper/` directory.
